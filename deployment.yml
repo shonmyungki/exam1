@@ -15,4 +15,5 @@ spec:
     spec:
       containers:
       - name: myweb-con
-        image: oolralra/myweb:2
+        image: audrl346
+        /myweb:2
