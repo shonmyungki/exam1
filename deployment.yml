@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: myweb-con
-        image: oolralra/myweb:1
+        image: oolralra/myweb:2
